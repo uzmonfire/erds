@@ -1,1 +1,3 @@
-# erds
+# ERD's
+
+This repo contains some work related to ERD's.... 
